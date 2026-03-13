@@ -17,11 +17,24 @@
     1
   ],
   "linked_discussions": [],
-  "linked_files": [],
+  "linked_files": [
+    "studies/study-1.md"
+  ],
   "linked_urls": [],
   "id": "29e426cd-722c-4911-ae1d-fadac2b53d9a",
   "created_at": "2026-03-13T11:32:18.196Z",
-  "updated_at": "2026-03-13T11:45:28.750Z",
+  "updated_at": "2026-03-13T13:27:32.360Z",
   "created_by": "pjmp020564",
-  "updated_by": "pjmp020564"
+  "updated_by": "pjmp020564",
+  "artifacts": [
+    {
+      "id": "f1efa9e2-d213-4ac5-afa8-d25eef429cf8",
+      "kind": "study",
+      "title": "study 1",
+      "path": "studies/study-1.md",
+      "summary": "dddddd",
+      "created_at": "2026-03-13T00:00:00.000Z",
+      "valid_until": null
+    }
+  ]
 }
