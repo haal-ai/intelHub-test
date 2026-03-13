@@ -14,7 +14,9 @@
     "created_at": "2026-03-13T11:32:18.196Z",
     "updated_at": "2026-03-13T14:36:38.363Z",
     "created_by": "pjmp020564",
-    "updated_by": "pjmp020564"
+    "updated_by": "pjmp020564",
+    "abstract": "",
+    "source_hub": null
   },
   {
     "slug": "rust-language-adoption",
@@ -32,7 +34,9 @@
     "created_at": "2026-03-13T20:22:54.000Z",
     "updated_at": "2026-03-13T20:22:54.000Z",
     "created_by": "test-data",
-    "updated_by": "test-data"
+    "updated_by": "test-data",
+    "abstract": "",
+    "source_hub": null
   },
   {
     "slug": "deno-runtime",
@@ -50,7 +54,9 @@
     "created_at": "2026-03-13T20:22:54.000Z",
     "updated_at": "2026-03-13T20:22:54.000Z",
     "created_by": "test-data",
-    "updated_by": "test-data"
+    "updated_by": "test-data",
+    "abstract": "",
+    "source_hub": null
   },
   {
     "slug": "webgpu-api",
@@ -68,7 +74,9 @@
     "created_at": "2026-03-13T20:22:54.000Z",
     "updated_at": "2026-03-13T20:22:54.000Z",
     "created_by": "test-data",
-    "updated_by": "test-data"
+    "updated_by": "test-data",
+    "abstract": "",
+    "source_hub": null
   },
   {
     "slug": "quantum-computing-sdk",
@@ -85,7 +93,9 @@
     "created_at": "2026-03-13T20:22:54.000Z",
     "updated_at": "2026-03-13T20:22:54.000Z",
     "created_by": "test-data",
-    "updated_by": "test-data"
+    "updated_by": "test-data",
+    "abstract": "",
+    "source_hub": null
   },
   {
     "slug": "tauri-desktop-framework",
@@ -103,7 +113,9 @@
     "created_at": "2026-03-13T20:22:54.000Z",
     "updated_at": "2026-03-13T20:22:54.000Z",
     "created_by": "test-data",
-    "updated_by": "test-data"
+    "updated_by": "test-data",
+    "abstract": "",
+    "source_hub": null
   },
   {
     "slug": "biome-linter",
@@ -121,7 +133,9 @@
     "created_at": "2026-03-13T20:22:54.000Z",
     "updated_at": "2026-03-13T20:22:54.000Z",
     "created_by": "test-data",
-    "updated_by": "test-data"
+    "updated_by": "test-data",
+    "abstract": "",
+    "source_hub": null
   },
   {
     "slug": "ollama-local-llm",
@@ -129,8 +143,9 @@
     "type": "tools",
     "ring": "assess",
     "in_radar": true,
-    "status": "to-be-assessed",
+    "status": "being-assessed",
     "expected_impact": "high",
+    "abstract": "",
     "tags": [
       "ollama",
       "llm",
@@ -138,9 +153,10 @@
       "privacy"
     ],
     "created_at": "2026-03-13T20:22:54.000Z",
-    "updated_at": "2026-03-13T20:22:54.000Z",
+    "updated_at": "2026-03-13T20:24:13.121Z",
     "created_by": "test-data",
-    "updated_by": "test-data"
+    "updated_by": "pjmp020564",
+    "source_hub": null
   },
   {
     "slug": "neon-serverless-postgres",
@@ -158,7 +174,9 @@
     "created_at": "2026-03-13T20:22:54.000Z",
     "updated_at": "2026-03-13T20:22:54.000Z",
     "created_by": "test-data",
-    "updated_by": "test-data"
+    "updated_by": "test-data",
+    "abstract": "",
+    "source_hub": null
   },
   {
     "slug": "architecture-decision-records",
@@ -176,7 +194,9 @@
     "created_at": "2026-03-13T20:22:54.000Z",
     "updated_at": "2026-03-13T20:22:54.000Z",
     "created_by": "test-data",
-    "updated_by": "test-data"
+    "updated_by": "test-data",
+    "abstract": "",
+    "source_hub": null
   },
   {
     "slug": "trunk-based-development",
@@ -194,7 +214,9 @@
     "created_at": "2026-03-13T20:22:54.000Z",
     "updated_at": "2026-03-13T20:22:54.000Z",
     "created_by": "test-data",
-    "updated_by": "test-data"
+    "updated_by": "test-data",
+    "abstract": "",
+    "source_hub": null
   },
   {
     "slug": "event-storming-workshops",
@@ -212,7 +234,9 @@
     "created_at": "2026-03-13T20:22:54.000Z",
     "updated_at": "2026-03-13T20:22:54.000Z",
     "created_by": "test-data",
-    "updated_by": "test-data"
+    "updated_by": "test-data",
+    "abstract": "",
+    "source_hub": null
   },
   {
     "slug": "mandatory-pair-programming",
@@ -229,7 +253,9 @@
     "created_at": "2026-03-13T20:22:54.000Z",
     "updated_at": "2026-03-13T20:22:54.000Z",
     "created_by": "test-data",
-    "updated_by": "test-data"
+    "updated_by": "test-data",
+    "abstract": "",
+    "source_hub": null
   },
   {
     "slug": "github-copilot-enterprise",
@@ -247,7 +273,9 @@
     "created_at": "2026-03-13T20:22:54.000Z",
     "updated_at": "2026-03-13T20:22:54.000Z",
     "created_by": "test-data",
-    "updated_by": "test-data"
+    "updated_by": "test-data",
+    "abstract": "",
+    "source_hub": null
   },
   {
     "slug": "opentelemetry-standard",
@@ -265,7 +293,9 @@
     "created_at": "2026-03-13T20:22:54.000Z",
     "updated_at": "2026-03-13T20:22:54.000Z",
     "created_by": "test-data",
-    "updated_by": "test-data"
+    "updated_by": "test-data",
+    "abstract": "",
+    "source_hub": null
   },
   {
     "slug": "platform-engineering-team",
@@ -283,7 +313,9 @@
     "created_at": "2026-03-13T20:22:54.000Z",
     "updated_at": "2026-03-13T20:22:54.000Z",
     "created_by": "test-data",
-    "updated_by": "test-data"
+    "updated_by": "test-data",
+    "abstract": "",
+    "source_hub": null
   },
   {
     "slug": "blockchain-supply-chain",
@@ -300,6 +332,8 @@
     "created_at": "2026-03-13T20:22:54.000Z",
     "updated_at": "2026-03-13T20:22:54.000Z",
     "created_by": "test-data",
-    "updated_by": "test-data"
+    "updated_by": "test-data",
+    "abstract": "",
+    "source_hub": null
   }
 ]

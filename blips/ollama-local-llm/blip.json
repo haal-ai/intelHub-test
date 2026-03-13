@@ -5,7 +5,7 @@
   "ring": "assess",
   "in_radar": true,
   "expected_impact": "high",
-  "status": "to-be-assessed",
+  "status": "being-assessed",
   "why_we_care": "Run LLMs locally for privacy-sensitive code review and doc generation",
   "summary": "Ollama makes running open-source LLMs trivial on developer machines",
   "description": "Evaluating Ollama for local code review, documentation generation without cloud dependency.",
@@ -22,8 +22,9 @@
   "id": "de1474ae-5217-47c7-97d9-e16c461cb044",
   "abstract": "",
   "created_at": "2026-03-13T20:22:54.000Z",
-  "updated_at": "2026-03-13T20:22:54.000Z",
+  "updated_at": "2026-03-13T20:24:13.121Z",
   "created_by": "test-data",
-  "updated_by": "test-data",
-  "artifacts": []
+  "updated_by": "pjmp020564",
+  "artifacts": [],
+  "source_hub": null
 }
