@@ -20,12 +20,13 @@
   "linked_files": [
     "studies/study-1.md",
     "studies/ddddddd.md",
-    "studies/study-2.md"
+    "studies/study-2.md",
+    "studies/study-3.md"
   ],
   "linked_urls": [],
   "id": "29e426cd-722c-4911-ae1d-fadac2b53d9a",
   "created_at": "2026-03-13T11:32:18.196Z",
-  "updated_at": "2026-03-13T14:16:32.183Z",
+  "updated_at": "2026-03-13T14:36:38.363Z",
   "created_by": "pjmp020564",
   "updated_by": "pjmp020564",
   "artifacts": [
@@ -55,6 +56,15 @@
       "summary": "dddddddddddddddddddddddddddddddd",
       "created_at": "2026-03-13T00:00:00.000Z",
       "valid_until": "2026-02-09T00:00:00.000Z"
+    },
+    {
+      "id": "b87ce7a2-8e06-4851-81b9-7c78b3be110f",
+      "kind": "study",
+      "title": "study 3",
+      "path": "studies/study-3.md",
+      "summary": "lala",
+      "created_at": "2026-03-13T00:00:00.000Z",
+      "valid_until": null
     }
   ]
 }
