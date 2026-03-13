@@ -1,0 +1,30 @@
+{
+  "slug": "rust-language-adoption",
+  "title": "Rust Language Adoption",
+  "type": "technology",
+  "ring": "adopt",
+  "in_radar": true,
+  "expected_impact": "critical",
+  "status": "confirmed-impact",
+  "why_we_care": "Memory safety without GC, growing ecosystem for systems programming",
+  "summary": "Rust provides memory safety guarantees at compile time without garbage collection overhead",
+  "description": "Evaluating Rust for systems programming, CLI tools, and WebAssembly targets. Already used in Tauri apps.",
+  "tags": [
+    "rust",
+    "systems",
+    "safety"
+  ],
+  "linked_issues": [
+    1
+  ],
+  "linked_discussions": [],
+  "linked_files": [],
+  "linked_urls": [],
+  "id": "4bb7b260-d6f8-41e4-96e8-90d5b506236e",
+  "abstract": "",
+  "created_at": "2026-03-13T20:22:54.000Z",
+  "updated_at": "2026-03-13T20:22:54.000Z",
+  "created_by": "test-data",
+  "updated_by": "test-data",
+  "artifacts": []
+}

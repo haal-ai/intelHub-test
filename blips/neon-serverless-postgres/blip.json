@@ -1,0 +1,28 @@
+{
+  "slug": "neon-serverless-postgres",
+  "title": "Neon Serverless Postgres",
+  "type": "tools",
+  "ring": "hold",
+  "in_radar": false,
+  "expected_impact": "unknown",
+  "status": "potential",
+  "why_we_care": "Serverless PostgreSQL with git-like database branching",
+  "summary": "Neon offers auto-scaling PostgreSQL with instant branching for dev environments",
+  "description": "Monitoring Neon for potential use in dev/staging database environments.",
+  "tags": [
+    "neon",
+    "postgres",
+    "serverless"
+  ],
+  "linked_issues": [],
+  "linked_discussions": [],
+  "linked_files": [],
+  "linked_urls": [],
+  "id": "729d69b9-f1a5-430a-bf2f-30a865602e14",
+  "abstract": "",
+  "created_at": "2026-03-13T20:22:54.000Z",
+  "updated_at": "2026-03-13T20:22:54.000Z",
+  "created_by": "test-data",
+  "updated_by": "test-data",
+  "artifacts": []
+}

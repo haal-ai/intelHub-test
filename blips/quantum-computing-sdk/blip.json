@@ -1,0 +1,27 @@
+{
+  "slug": "quantum-computing-sdk",
+  "title": "Quantum Computing SDKs",
+  "type": "technology",
+  "ring": "hold",
+  "in_radar": false,
+  "expected_impact": "low",
+  "status": "potential",
+  "why_we_care": "Early-stage quantum development kits from major cloud providers",
+  "summary": "Monitoring quantum SDKs (Qiskit, Cirq, Braket) for future relevance",
+  "description": "Watching quantum computing progress but no actionable use case for us yet.",
+  "tags": [
+    "quantum",
+    "research"
+  ],
+  "linked_issues": [],
+  "linked_discussions": [],
+  "linked_files": [],
+  "linked_urls": [],
+  "id": "cd3b5376-17c0-4a79-8043-8574ce7643a7",
+  "abstract": "",
+  "created_at": "2026-03-13T20:22:54.000Z",
+  "updated_at": "2026-03-13T20:22:54.000Z",
+  "created_by": "test-data",
+  "updated_by": "test-data",
+  "artifacts": []
+}

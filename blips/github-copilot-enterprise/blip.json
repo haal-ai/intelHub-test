@@ -1,0 +1,28 @@
+{
+  "slug": "github-copilot-enterprise",
+  "title": "GitHub Copilot Enterprise",
+  "type": "other",
+  "ring": "adopt",
+  "in_radar": true,
+  "expected_impact": "critical",
+  "status": "confirmed-impact",
+  "why_we_care": "AI code completion and codebase-aware chat for enterprise teams",
+  "summary": "Copilot Enterprise accelerates development with context-aware AI assistance",
+  "description": "Rolled out to all engineering teams. Measured 25% reduction in boilerplate time.",
+  "tags": [
+    "copilot",
+    "ai",
+    "productivity"
+  ],
+  "linked_issues": [],
+  "linked_discussions": [],
+  "linked_files": [],
+  "linked_urls": [],
+  "id": "03ea1958-4467-43ad-bd94-5ce7a110d3c4",
+  "abstract": "",
+  "created_at": "2026-03-13T20:22:54.000Z",
+  "updated_at": "2026-03-13T20:22:54.000Z",
+  "created_by": "test-data",
+  "updated_by": "test-data",
+  "artifacts": []
+}

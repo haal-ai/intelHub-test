@@ -1,0 +1,28 @@
+{
+  "slug": "deno-runtime",
+  "title": "Deno 2.0 Runtime",
+  "type": "technology",
+  "ring": "trial",
+  "in_radar": true,
+  "expected_impact": "high",
+  "status": "being-assessed",
+  "why_we_care": "Node-compatible runtime with built-in TypeScript and security model",
+  "summary": "Deno 2 brings full Node/npm compatibility while keeping security-first defaults",
+  "description": "Assessing Deno as alternative JS/TS runtime for new microservices and CLI tools.",
+  "tags": [
+    "deno",
+    "runtime",
+    "typescript"
+  ],
+  "linked_issues": [],
+  "linked_discussions": [],
+  "linked_files": [],
+  "linked_urls": [],
+  "id": "6f34f95a-0eb8-4d65-b170-a77ebdab00ca",
+  "abstract": "",
+  "created_at": "2026-03-13T20:22:54.000Z",
+  "updated_at": "2026-03-13T20:22:54.000Z",
+  "created_by": "test-data",
+  "updated_by": "test-data",
+  "artifacts": []
+}

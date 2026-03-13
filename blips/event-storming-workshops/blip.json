@@ -1,0 +1,28 @@
+{
+  "slug": "event-storming-workshops",
+  "title": "Event Storming Workshops",
+  "type": "process",
+  "ring": "assess",
+  "in_radar": true,
+  "expected_impact": "low",
+  "status": "human-reviewed",
+  "why_we_care": "Collaborative technique to discover domain events and bounded contexts",
+  "summary": "Event Storming helps teams align on domain model before coding",
+  "description": "Ran first Event Storming for payments domain \u2014 good reception, exploring wider use.",
+  "tags": [
+    "event-storming",
+    "ddd",
+    "workshop"
+  ],
+  "linked_issues": [],
+  "linked_discussions": [],
+  "linked_files": [],
+  "linked_urls": [],
+  "id": "ebf4647c-8fec-45cc-9462-3fd79970b7ae",
+  "abstract": "",
+  "created_at": "2026-03-13T20:22:54.000Z",
+  "updated_at": "2026-03-13T20:22:54.000Z",
+  "created_by": "test-data",
+  "updated_by": "test-data",
+  "artifacts": []
+}

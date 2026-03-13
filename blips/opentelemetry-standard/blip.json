@@ -1,0 +1,28 @@
+{
+  "slug": "opentelemetry-standard",
+  "title": "OpenTelemetry Standard",
+  "type": "other",
+  "ring": "trial",
+  "in_radar": true,
+  "expected_impact": "high",
+  "status": "being-assessed",
+  "why_we_care": "Vendor-neutral observability framework for traces, metrics, and logs",
+  "summary": "OTel provides unified collection avoiding vendor lock-in for observability",
+  "description": "Migrating from Datadog-native instrumentation to OTel for vendor independence.",
+  "tags": [
+    "otel",
+    "observability",
+    "monitoring"
+  ],
+  "linked_issues": [],
+  "linked_discussions": [],
+  "linked_files": [],
+  "linked_urls": [],
+  "id": "e265adbf-07d9-4db9-a5d4-44f3019c272b",
+  "abstract": "",
+  "created_at": "2026-03-13T20:22:54.000Z",
+  "updated_at": "2026-03-13T20:22:54.000Z",
+  "created_by": "test-data",
+  "updated_by": "test-data",
+  "artifacts": []
+}

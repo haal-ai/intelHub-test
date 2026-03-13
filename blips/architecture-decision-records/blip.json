@@ -1,0 +1,28 @@
+{
+  "slug": "architecture-decision-records",
+  "title": "Architecture Decision Records",
+  "type": "process",
+  "ring": "adopt",
+  "in_radar": true,
+  "expected_impact": "high",
+  "status": "confirmed-impact",
+  "why_we_care": "Lightweight docs capturing why we made key architectural choices",
+  "summary": "ADRs provide traceability and context for technical decisions across teams",
+  "description": "Adopted ADRs org-wide. Each team maintains their own ADR log in their repo.",
+  "tags": [
+    "adr",
+    "documentation",
+    "architecture"
+  ],
+  "linked_issues": [],
+  "linked_discussions": [],
+  "linked_files": [],
+  "linked_urls": [],
+  "id": "29763c75-02a3-4347-96c0-757cc6b15d84",
+  "abstract": "",
+  "created_at": "2026-03-13T20:22:54.000Z",
+  "updated_at": "2026-03-13T20:22:54.000Z",
+  "created_by": "test-data",
+  "updated_by": "test-data",
+  "artifacts": []
+}

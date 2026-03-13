@@ -1,0 +1,27 @@
+{
+  "slug": "mandatory-pair-programming",
+  "title": "Mandatory Pair Programming",
+  "type": "process",
+  "ring": "hold",
+  "in_radar": false,
+  "expected_impact": "none",
+  "status": "no-impact",
+  "why_we_care": "Experiment with requiring all code to be pair-programmed",
+  "summary": "Mandatory pairing showed mixed results \u2014 overhead without clear quality gains",
+  "description": "Moved to hold after 3-month pilot. Optional pairing still encouraged.",
+  "tags": [
+    "pair-programming",
+    "practices"
+  ],
+  "linked_issues": [],
+  "linked_discussions": [],
+  "linked_files": [],
+  "linked_urls": [],
+  "id": "6abeaff8-5e1a-4175-8918-dee32f10e081",
+  "abstract": "",
+  "created_at": "2026-03-13T20:22:54.000Z",
+  "updated_at": "2026-03-13T20:22:54.000Z",
+  "created_by": "test-data",
+  "updated_by": "test-data",
+  "artifacts": []
+}
