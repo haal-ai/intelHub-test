@@ -3,14 +3,15 @@
   "title": "testing tghe intelhub",
   "type": "tools",
   "ring": "assess",
-  "in_radar": false,
-  "expected_impact": "unknown",
+  "in_radar": true,
+  "expected_impact": "high",
   "status": "potential",
-  "why_we_care": "because",
-  "summary": "i test my own stuff",
-  "description": "voila",
+  "why_we_care": "because and why not",
+  "summary": "i test my own stuff - bin oui",
+  "description": "voila et voili",
   "tags": [
-    "tets"
+    "tets",
+    "test2"
   ],
   "linked_issues": [
     1
@@ -20,7 +21,7 @@
   "linked_urls": [],
   "id": "29e426cd-722c-4911-ae1d-fadac2b53d9a",
   "created_at": "2026-03-13T11:32:18.196Z",
-  "updated_at": "2026-03-13T11:42:05.285Z",
+  "updated_at": "2026-03-13T11:45:28.750Z",
   "created_by": "pjmp020564",
   "updated_by": "pjmp020564"
 }
