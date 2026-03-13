@@ -1,0 +1,17 @@
+{
+  "profile": {
+    "key": "tech-radar",
+    "quadrants": {
+      "tools": "Tools",
+      "process": "Process",
+      "technology": "Technology",
+      "other": "Other"
+    },
+    "rings": {
+      "adopt": "Adopt",
+      "trial": "Trial",
+      "assess": "Assess",
+      "hold": "Watch"
+    }
+  }
+}
