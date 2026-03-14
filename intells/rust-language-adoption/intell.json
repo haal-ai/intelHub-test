@@ -27,9 +27,9 @@
   "id": "4bb7b260-d6f8-41e4-96e8-90d5b506236e",
   "abstract": "",
   "created_at": "2026-03-13T20:22:54.000Z",
-  "updated_at": "2026-03-14T04:20:50.785Z",
+  "updated_at": "2026-03-14T10:00:00.000Z",
   "created_by": "test-data",
-  "updated_by": "pjmp020564",
+  "updated_by": "test-data",
   "artifacts": [
     {
       "id": "0fd99f79-4c38-4a0c-93a2-9b6576c74e72",
@@ -38,6 +38,51 @@
       "path": "studies/this-is-ussual-rethoric-but-does-rust-has-teh-sufficient-eco.md",
       "summary": "we hear this a lot.\n we",
       "created_at": "2026-03-14T00:00:00.000Z",
+      "valid_until": null
+    },
+    {
+      "id": "7528a309-c54b-499c-9e83-d6e77ab525a3",
+      "kind": "contribution",
+      "title": "Rust vs Go Performance Benchmarks for Microservices",
+      "path": "contributions/rust-vs-go-performance-benchmarks-for-microservices.md",
+      "summary": "Comparative benchmarks of Rust and Go for HTTP services, gRPC endpoints, and JSON serialization",
+      "created_at": "2026-02-20T00:00:00.000Z",
+      "valid_until": null
+    },
+    {
+      "id": "5e4f6e95-7b0d-4040-b8d0-7c46c5461348",
+      "kind": "contribution",
+      "title": "Team Rust Onboarding Experience Report",
+      "path": "contributions/team-rust-onboarding-experience-report.md",
+      "summary": "3-month retrospective on onboarding 5 Java developers to Rust, covering pain points and acceleration strategies",
+      "created_at": "2026-03-05T00:00:00.000Z",
+      "valid_until": null
+    },
+    {
+      "id": "b4148df3-8788-4158-a9d5-a1acfc326338",
+      "kind": "final-doc",
+      "title": "Rust Adoption Decision Record",
+      "path": "final-docs/rust-adoption-decision-record.md",
+      "summary": "Formal ADR documenting the decision to adopt Rust for all new CLI tooling and WebAssembly modules",
+      "created_at": "2026-03-10T00:00:00.000Z",
+      "valid_until": "2027-03-10T00:00:00.000Z"
+    },
+    {
+      "id": "ee4d9f6e-f83a-404c-bdda-4080c3631486",
+      "kind": "final-doc",
+      "title": "Rust Coding Standards and Guidelines",
+      "path": "final-docs/rust-coding-standards-and-guidelines.md",
+      "summary": "Team coding standards for Rust projects including error handling, testing, and dependency management policies",
+      "created_at": "2026-03-12T00:00:00.000Z",
+      "valid_until": null
+    },
+    {
+      "id": "83a73853-6e42-41e1-8fd8-cb520c981b6e",
+      "kind": "final-doc",
+      "title": "Rust Coding Standards and Guidelines",
+      "path": "final-docs/rust-coding-standards-and-guidelines.md",
+      "summary": "Team coding standards for Rust projects including error handling, testing, and dependency management policies",
+      "created_at": "2026-03-12T00:00:00.000Z",
       "valid_until": null
     }
   ],
