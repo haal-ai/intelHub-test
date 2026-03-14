@@ -18,13 +18,26 @@
     4
   ],
   "linked_discussions": [],
-  "linked_files": [],
+  "linked_files": [
+    "studies/this-is-ussual-rethoric-but-does-rust-has-teh-sufficient-eco.md"
+  ],
   "linked_urls": [],
   "id": "4bb7b260-d6f8-41e4-96e8-90d5b506236e",
   "abstract": "",
   "created_at": "2026-03-13T20:22:54.000Z",
-  "updated_at": "2026-03-13T20:22:54.000Z",
+  "updated_at": "2026-03-14T04:12:02.391Z",
   "created_by": "test-data",
-  "updated_by": "test-data",
-  "artifacts": []
+  "updated_by": "pjmp020564",
+  "artifacts": [
+    {
+      "id": "0fd99f79-4c38-4a0c-93a2-9b6576c74e72",
+      "kind": "study",
+      "title": "This is  ussual rethoric  but does rust has teh sufficient ecosytem  like java or c#",
+      "path": "studies/this-is-ussual-rethoric-but-does-rust-has-teh-sufficient-eco.md",
+      "summary": "we hear this a lot.\n we",
+      "created_at": "2026-03-14T00:00:00.000Z",
+      "valid_until": null
+    }
+  ],
+  "source_hub": null
 }
