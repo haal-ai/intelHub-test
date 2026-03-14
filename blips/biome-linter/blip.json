@@ -14,8 +14,12 @@
     "linting",
     "formatting"
   ],
-  "linked_issues": [],
-  "linked_discussions": [],
+  "linked_issues": [
+    7
+  ],
+  "linked_discussions": [
+    12
+  ],
   "linked_files": [],
   "linked_urls": [],
   "id": "a8b9d5e8-b177-48f8-9fc7-a552820ae5bb",

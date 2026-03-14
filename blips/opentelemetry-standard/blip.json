@@ -14,8 +14,12 @@
     "observability",
     "monitoring"
   ],
-  "linked_issues": [],
-  "linked_discussions": [],
+  "linked_issues": [
+    8
+  ],
+  "linked_discussions": [
+    16
+  ],
   "linked_files": [],
   "linked_urls": [],
   "id": "e265adbf-07d9-4db9-a5d4-44f3019c272b",

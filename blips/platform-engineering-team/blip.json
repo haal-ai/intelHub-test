@@ -15,7 +15,9 @@
     "team"
   ],
   "linked_issues": [],
-  "linked_discussions": [],
+  "linked_discussions": [
+    15
+  ],
   "linked_files": [],
   "linked_urls": [],
   "id": "d826b804-9f62-4385-add9-e594c8d38575",

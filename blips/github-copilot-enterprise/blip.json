@@ -14,7 +14,9 @@
     "ai",
     "productivity"
   ],
-  "linked_issues": [],
+  "linked_issues": [
+    6
+  ],
   "linked_discussions": [],
   "linked_files": [],
   "linked_urls": [],

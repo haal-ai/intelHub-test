@@ -14,7 +14,9 @@
     "graphics",
     "ml"
   ],
-  "linked_issues": [],
+  "linked_issues": [
+    10
+  ],
   "linked_discussions": [],
   "linked_files": [],
   "linked_urls": [],
