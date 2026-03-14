@@ -84,6 +84,33 @@
       "summary": "Team coding standards for Rust projects including error handling, testing, and dependency management policies",
       "created_at": "2026-03-12T00:00:00.000Z",
       "valid_until": null
+    },
+    {
+      "id": "539d22c4-b530-43da-98fd-07313182d433",
+      "kind": "study",
+      "title": "Rust Async Runtime Evaluation",
+      "path": "studies/rust-async-runtime-evaluation.md",
+      "summary": "",
+      "created_at": "2026-03-14T04:31:04.461Z",
+      "valid_until": null
+    },
+    {
+      "id": "8b91cdbc-1322-40ee-bee6-30a745c778d9",
+      "kind": "final-doc",
+      "title": "Rust Dependency Approval List",
+      "path": "final-docs/rust-dependency-approval-list.md",
+      "summary": "",
+      "created_at": "2026-03-14T04:31:04.499Z",
+      "valid_until": null
+    },
+    {
+      "id": "746b577f-25f1-4e3d-92aa-ab27cf7f1c7c",
+      "kind": "contribution",
+      "title": "Wasm Module Size Comparison",
+      "path": "contributions/wasm-module-size-comparison.md",
+      "summary": "",
+      "created_at": "2026-03-14T04:31:04.528Z",
+      "valid_until": null
     }
   ],
   "source_hub": null
