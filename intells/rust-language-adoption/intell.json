@@ -8,7 +8,7 @@
   "status": "confirmed-impact",
   "why_we_care": "Memory safety without GC, growing ecosystem for systems programming",
   "summary": "Rust provides memory safety guarantees at compile time without garbage collection overhead",
-  "description": "Evaluating Rust for systems programming, CLI tools, and WebAssembly targets. Already used in Tauri apps.",
+  "description": "Evaluating Rust for systems programming, CLI tools, and WebAssembly targets. Already used in Tauri apps.\n\nhttps://github.com/haal-ai/intelHub-test/blob/main/intells/rust-language-adoption/intell.json",
   "tags": [
     "rust",
     "systems",
@@ -21,11 +21,13 @@
   "linked_files": [
     "studies/this-is-ussual-rethoric-but-does-rust-has-teh-sufficient-eco.md"
   ],
-  "linked_urls": [],
+  "linked_urls": [
+    "https://github.com/haal-ai/intelHub-test/blob/main/intells/rust-language-adoption/intell.json"
+  ],
   "id": "4bb7b260-d6f8-41e4-96e8-90d5b506236e",
   "abstract": "",
   "created_at": "2026-03-13T20:22:54.000Z",
-  "updated_at": "2026-03-14T04:12:02.391Z",
+  "updated_at": "2026-03-14T04:15:40.286Z",
   "created_by": "test-data",
   "updated_by": "pjmp020564",
   "artifacts": [
